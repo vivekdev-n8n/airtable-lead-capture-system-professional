@@ -195,6 +195,7 @@ Yes. Groq free tier = 14,400 requests/day. At ~2 requests/lead, that's 7,200 lea
 
 ### Can I resell this to clients?
 No. This product is licensed strictly for your individual or internal business use only. You are NOT permitted to resell, redistribute, share, or use this workflow template to build products for other clients. All logic, architecture, and documentation are the proprietary intellectual property of Vivek Kumar. 
+
 If you are an agency or freelancer wanting to use my architecture for your clients, please contact me on LinkedIn to discuss an Agency/Commercial License.
 
 ### What if I get stuck?
@@ -261,7 +262,7 @@ Questions? **DM me. I respond within 24 hours.**
 ✅ Production n8n workflow  
 ✅ Pre-built Airtable base (clone link)  
 ✅ AI scoring + data enrichment  
-✅ 4 professional DOCX guides  
+✅ 4 professional PDF guides  
 ✅ Permanent ownership (zero recurring fees)
 
 **[→ Buy on Gumroad](https://vivekn8ndev.gumroad.com/l/airtable-lead-capture-professional)**
@@ -306,7 +307,7 @@ You may NOT:
 
 ---
 
-## ⭐ Note on JSON Availability
+## 🚨 Important: Note on JSON Availability
 
 The workflow JSON is **only available in the paid package on Gumroad**. This GitHub repository serves as a portfolio showcase and technical overview.
 
