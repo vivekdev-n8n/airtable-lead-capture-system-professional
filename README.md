@@ -3,7 +3,7 @@
 **Transform cold form fills into warm, qualified leads in 8 seconds—with AI intelligence, real-time data enrichment, and enterprise-grade security.**
 
 [![License: Commercial](https://img.shields.io/badge/License-Commercial-blue.svg)](https://github.com/vivekdev-n8n)
-[![n8n Version](https://img.shields.io/badge/n8n-v1.0+-orange.svg)](https://n8n.io)
+[![n8n Version](https://img.shields.io/badge/n8n-Professional-orange.svg)](https://n8n.io)
 [![Price](https://img.shields.io/badge/Price-$197-success.svg)](https://vivekn8ndev.gumroad.com/l/airtable-lead-capture-professional)
 
 ---
