@@ -89,7 +89,7 @@ Most automation templates leave you stranded. You still need to:
 
 **That's it.** No scattered configs, no hunting through 15 nodes. Everything runs from one central hub.
 
-![Workflow Architecture](https://github.com/vivekdev-n8n/airtable-lead-capture-professional/blob/9f538d25a8e5a26a1122c6a19e308ae5072a6dcc/Airtable%20Lead%20Capture%20Professional%20Edition-Workflow.jpg)
+![Workflow Architecture](https://github.com/vivekdev-n8n/airtable-lead-capture-system-professional/blob/96d8cb9b123455dc94f0e3d30d0ffd19643b6e6f/Airtable-Lead-Capture-System-Professional-Workflow.jpg)
 
 ---
 
@@ -294,7 +294,7 @@ You may NOT:
 - Support my work (builds trust for future buyers)
 - Bookmark for later (when you're ready to automate)
 
-**[⭐ Star this repo now](https://github.com/vivekdev-n8n/airtable-lead-capture-professional/stargazers)**
+**[⭐ Star this repo now](https://github.com/vivekdev-n8n/airtable-lead-capture-system-professional/stargazers)**
 
 ---
 
@@ -324,9 +324,9 @@ Why? Because this isn't a hobby project—it's a professional business engine th
 
 ## 📊 Repository Stats
 
-![GitHub stars](https://img.shields.io/github/stars/vivekdev-n8n/airtable-lead-capture-professional?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/vivekdev-n8n/airtable-lead-capture-professional?style=social)
-![GitHub forks](https://img.shields.io/github/forks/vivekdev-n8n/airtable-lead-capture-professional?style=social)
+![GitHub stars](https://img.shields.io/github/stars/vivekdev-n8n/airtable-lead-capture-system-professional?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/vivekdev-n8n/airtable-lead-capture-system-professional?style=social)
+![GitHub forks](https://img.shields.io/github/forks/vivekdev-n8n/airtable-lead-capture-system-professional?style=social)
 
 ---
 
