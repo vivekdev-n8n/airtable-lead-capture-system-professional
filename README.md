@@ -63,7 +63,7 @@ Most automation templates leave you stranded. You still need to:
 - **AI Prompts Library** - Optimized for lead qualification
 - **Telegram Bot Setup** - Step-by-step BotFather commands
 
-### 📚 Professional Documentation (4 DOCX Guides)
+### 📚 Professional Documentation (4 PDF Guides)
 - **Welcome & Business Value** - Why this system is a game-changer
 - **Step-By-Step Setup Guide** - Screenshots for every step (5 minutes)
 - **Quick Connectivity Guide** - External tool integration
